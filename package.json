@@ -1,0 +1,35 @@
+{
+  "name": "Ludicrous",
+  "version": "1.0.0",
+  "description": "Ludicrous Is A Web Proxy Site (More Comonly Known As An Unblocker Site) Made By EnderKingJ And Karlee Rae.",
+  "main": "server.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "get-hrefs": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LudicrousDevelopment/LudicrousOfficial.git"
+  },
+  "keywords": [
+    "proxy",
+    "proxysite",
+    "unblocker",
+    "unblocked",
+    "Ludicrous",
+    "web-unblocker"
+  ],
+  "author": "LudicrousDevelopment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LudicrousDevelopment/LudicrousOfficial/issues"
+  },
+  "homepage": "https://github.com/LudicrousDevelopment/LudicrousOfficial#readme"
+}
